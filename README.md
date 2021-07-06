@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian
 - 👀 I’m interested in new algorithems combined with data analysis or machine learning.
 - 🌱 I’m currently learning different programming languages.
-     I wouldn't say I've masterd Python or Java completely because there can allways be new depth to small areas ... but do feel comfortable in these languages. 
+I wouldn't say I've masterd Python or Java completely, because there allways can be unexpected depth to newly discoverd areas ... but I do feel comfortable in these languages. 
 - 💞️ I’m looking to collaborate on data analysis projects. 
 
 <!---
